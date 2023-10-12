@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\bin\Debug\net6.0\Prezydent-posel-senator.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\bin\Debug\net6.0\Prezydent-posel-senator.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\bin\Debug\net6.0\Prezydent-posel-senator.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\bin\Debug\net6.0\Prezydent-posel-senator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\bin\Debug\net6.0\Prezydent-posel-senator.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\refint\Prezydent-posel-senator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\Prezydent-posel-senator.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Prezydent-posel-senator\Prezydent-posel-senator\obj\Debug\net6.0\ref\Prezydent-posel-senator.dll

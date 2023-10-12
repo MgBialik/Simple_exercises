@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\bin\Debug\net6.0\Rok_przestępny.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\bin\Debug\net6.0\Rok_przestępny.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\bin\Debug\net6.0\Rok_przestępny.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\bin\Debug\net6.0\Rok_przestępny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\bin\Debug\net6.0\Rok_przestępny.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\refint\Rok_przestępny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\Rok_przestępny.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Rok_przestępny\Rok_przestępny\obj\Debug\net6.0\ref\Rok_przestępny.dll

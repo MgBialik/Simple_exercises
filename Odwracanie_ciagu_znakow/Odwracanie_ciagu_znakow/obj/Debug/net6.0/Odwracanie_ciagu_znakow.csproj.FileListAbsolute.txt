@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\bin\Debug\net6.0\Odwracanie_ciagu_znakow.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\bin\Debug\net6.0\Odwracanie_ciagu_znakow.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\bin\Debug\net6.0\Odwracanie_ciagu_znakow.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\bin\Debug\net6.0\Odwracanie_ciagu_znakow.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\bin\Debug\net6.0\Odwracanie_ciagu_znakow.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\refint\Odwracanie_ciagu_znakow.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\Odwracanie_ciagu_znakow.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Odwracanie_ciagu_znakow\Odwracanie_ciagu_znakow\obj\Debug\net6.0\ref\Odwracanie_ciagu_znakow.dll

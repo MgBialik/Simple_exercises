@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\bin\Debug\net6.0\Studia.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\bin\Debug\net6.0\Studia.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\bin\Debug\net6.0\Studia.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\bin\Debug\net6.0\Studia.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\bin\Debug\net6.0\Studia.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\refint\Studia.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\Studia.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Studia\Studia\obj\Debug\net6.0\ref\Studia.dll

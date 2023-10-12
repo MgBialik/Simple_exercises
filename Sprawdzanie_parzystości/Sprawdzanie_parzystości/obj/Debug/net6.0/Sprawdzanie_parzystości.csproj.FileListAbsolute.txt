@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\bin\Debug\net6.0\Sprawdzanie_parzystości.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\bin\Debug\net6.0\Sprawdzanie_parzystości.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\bin\Debug\net6.0\Sprawdzanie_parzystości.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\bin\Debug\net6.0\Sprawdzanie_parzystości.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\bin\Debug\net6.0\Sprawdzanie_parzystości.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\refint\Sprawdzanie_parzystości.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\Sprawdzanie_parzystości.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Sprawdzanie_parzystości\Sprawdzanie_parzystości\obj\Debug\net6.0\ref\Sprawdzanie_parzystości.dll

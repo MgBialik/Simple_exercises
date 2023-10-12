@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\bin\Debug\net6.0\3-cie potegi.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\bin\Debug\net6.0\3-cie potegi.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\bin\Debug\net6.0\3-cie potegi.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\bin\Debug\net6.0\3-cie potegi.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\bin\Debug\net6.0\3-cie potegi.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\refint\3-cie potegi.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\3-cie potegi.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\3-cie potegi\3-cie potegi\obj\Debug\net6.0\ref\3-cie potegi.dll

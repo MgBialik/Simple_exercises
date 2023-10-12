@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\bin\Debug\net6.0\Wzrost.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\bin\Debug\net6.0\Wzrost.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\bin\Debug\net6.0\Wzrost.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\bin\Debug\net6.0\Wzrost.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\bin\Debug\net6.0\Wzrost.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\refint\Wzrost.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\Wzrost.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Wzrost\Wzrost\obj\Debug\net6.0\ref\Wzrost.dll

@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\bin\Debug\net6.0\Maly_kalkulator.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\bin\Debug\net6.0\Maly_kalkulator.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\bin\Debug\net6.0\Maly_kalkulator.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\bin\Debug\net6.0\Maly_kalkulator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\bin\Debug\net6.0\Maly_kalkulator.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\refint\Maly_kalkulator.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\Maly_kalkulator.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Maly_kalkulator\Maly_kalkulator\obj\Debug\net6.0\ref\Maly_kalkulator.dll

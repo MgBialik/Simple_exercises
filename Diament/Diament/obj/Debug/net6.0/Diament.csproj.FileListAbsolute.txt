@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\bin\Debug\net6.0\Diament.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\bin\Debug\net6.0\Diament.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\bin\Debug\net6.0\Diament.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\bin\Debug\net6.0\Diament.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\bin\Debug\net6.0\Diament.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\refint\Diament.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\Diament.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Diament\Diament\obj\Debug\net6.0\ref\Diament.dll

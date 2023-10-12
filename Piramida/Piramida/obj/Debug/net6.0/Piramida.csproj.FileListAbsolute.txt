@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\bin\Debug\net6.0\Piramida.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\bin\Debug\net6.0\Piramida.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\bin\Debug\net6.0\Piramida.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\bin\Debug\net6.0\Piramida.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\bin\Debug\net6.0\Piramida.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\refint\Piramida.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\Piramida.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Piramida\Piramida\obj\Debug\net6.0\ref\Piramida.dll

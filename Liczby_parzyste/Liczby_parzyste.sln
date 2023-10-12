@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczby_parzyste", "Liczby_parzyste\Liczby_parzyste.csproj", "{F2B2DC38-3ABD-445A-99FE-62BF8873DC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B2DC38-3ABD-445A-99FE-62BF8873DC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B2DC38-3ABD-445A-99FE-62BF8873DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B2DC38-3ABD-445A-99FE-62BF8873DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B2DC38-3ABD-445A-99FE-62BF8873DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84CB3C19-B9F9-479E-AADA-6881AF9FAF42}
+	EndGlobalSection
+EndGlobal

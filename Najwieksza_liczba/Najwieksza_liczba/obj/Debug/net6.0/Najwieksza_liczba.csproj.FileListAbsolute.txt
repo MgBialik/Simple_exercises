@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\bin\Debug\net6.0\Najwieksza_liczba.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\bin\Debug\net6.0\Najwieksza_liczba.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\bin\Debug\net6.0\Najwieksza_liczba.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\bin\Debug\net6.0\Najwieksza_liczba.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\bin\Debug\net6.0\Najwieksza_liczba.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\refint\Najwieksza_liczba.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\Najwieksza_liczba.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Najwieksza_liczba\Najwieksza_liczba\obj\Debug\net6.0\ref\Najwieksza_liczba.dll

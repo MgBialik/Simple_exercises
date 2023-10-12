@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\bin\Debug\net6.0\NWW.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\bin\Debug\net6.0\NWW.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\bin\Debug\net6.0\NWW.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\bin\Debug\net6.0\NWW.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\bin\Debug\net6.0\NWW.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\refint\NWW.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\NWW.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\NWW\NWW\obj\Debug\net6.0\ref\NWW.dll

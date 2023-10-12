@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\refint\Temperatura.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Temperatura\Temperatura\obj\Debug\net6.0\ref\Temperatura.dll

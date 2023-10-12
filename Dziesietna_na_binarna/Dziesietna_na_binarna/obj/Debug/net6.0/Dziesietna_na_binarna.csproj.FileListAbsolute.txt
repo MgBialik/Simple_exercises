@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\bin\Debug\net6.0\Dziesietna_na_binarna.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\bin\Debug\net6.0\Dziesietna_na_binarna.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\bin\Debug\net6.0\Dziesietna_na_binarna.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\bin\Debug\net6.0\Dziesietna_na_binarna.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\bin\Debug\net6.0\Dziesietna_na_binarna.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\refint\Dziesietna_na_binarna.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\Dziesietna_na_binarna.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Dziesietna_na_binarna\Dziesietna_na_binarna\obj\Debug\net6.0\ref\Dziesietna_na_binarna.dll

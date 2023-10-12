@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\bin\Debug\net6.0\Oceny.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\bin\Debug\net6.0\Oceny.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\bin\Debug\net6.0\Oceny.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\bin\Debug\net6.0\Oceny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\bin\Debug\net6.0\Oceny.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\refint\Oceny.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\Oceny.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Oceny\Oceny\obj\Debug\net6.0\ref\Oceny.dll

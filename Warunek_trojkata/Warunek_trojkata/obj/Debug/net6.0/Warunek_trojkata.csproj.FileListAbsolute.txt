@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\bin\Debug\net6.0\Warunek_trojkata.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\bin\Debug\net6.0\Warunek_trojkata.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\bin\Debug\net6.0\Warunek_trojkata.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\bin\Debug\net6.0\Warunek_trojkata.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\bin\Debug\net6.0\Warunek_trojkata.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\refint\Warunek_trojkata.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\Warunek_trojkata.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Warunek_trojkata\Warunek_trojkata\obj\Debug\net6.0\ref\Warunek_trojkata.dll

@@ -1,0 +1,14 @@
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\bin\Debug\net6.0\Suma.exe
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\bin\Debug\net6.0\Suma.deps.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\bin\Debug\net6.0\Suma.runtimeconfig.json
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\bin\Debug\net6.0\Suma.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\bin\Debug\net6.0\Suma.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.AssemblyInfoInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.AssemblyInfo.cs
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.csproj.CoreCompileInputs.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\refint\Suma.dll
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.pdb
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\Suma.genruntimeconfig.cache
+D:\Gosia\ćwiczenia programistyczne\KursDotNet\Zadania_tydzien_2\Suma\Suma\obj\Debug\net6.0\ref\Suma.dll
